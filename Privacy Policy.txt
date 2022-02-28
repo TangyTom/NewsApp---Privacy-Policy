@@ -1,0 +1,2 @@
+Ben Muhammet Emin Baytar. Üniversite öğrencisiyim ve şuanda staj yapmaktayım. Staj süresince bir haber uygulaması geliştiriyorum.
+Bu uygulamada Facebook girişi bulunması gerekiyor bu nedenle gizlilik politikasını ihlal etmeden kullanmak istiyorum.
